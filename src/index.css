@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.active{
+  color:red !important
+}
+.active1{
+  color :red
+  
+
+}
+.active2{
+  color :blue
+}
+.active3{
+  color :rgb(0, 255, 21)
+}
+.active4{
+  color :rgb(255, 0, 128)
+}
+td, th{
+  vertical-align: middle
+}
+.spinner{
+  text-align: center;
+  margin: auto;
+  width: 150px;
+  height: 120px;
+}
+.first-container{
+  height: 90vh;
+  overflow :scroll;
+}
+.cardd{
+  height: 600px;
+}
